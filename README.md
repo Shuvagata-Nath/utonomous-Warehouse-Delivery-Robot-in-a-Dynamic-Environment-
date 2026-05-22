@@ -30,7 +30,8 @@ The project combines SLAM mapping, AMCL localization, Nav2 autonomous navigation
 - AMCL
 - Cartographer SLAM
 
----
+## Demo Video:
+https://www.youtube.com/watch?v=UdvFLvprOGI
 
 ## Project Structure
 
@@ -50,4 +51,6 @@ warehouse_robot/
 ├── worlds/
 │   └── warehouse_10_shelves.sdf
 │
-├── README.md
+├── README.md 
+
+
