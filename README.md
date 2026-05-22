@@ -51,4 +51,3 @@ warehouse_robot/
 │   └── warehouse_10_shelves.sdf
 │
 ├── README.md
-└── requirements.txt
