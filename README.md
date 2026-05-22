@@ -50,9 +50,5 @@ warehouse_robot/
 ├── worlds/
 │   └── warehouse_10_shelves.sdf
 │
-├── screenshots/
-│
-├── docs/
-│
 ├── README.md
 └── requirements.txt
